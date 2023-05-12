@@ -1,0 +1,12 @@
+.cart-button {
+    font: inherit;
+    font-weight: bold;
+    background-color: #0077B5;
+    padding: 0.75rem 1.5rem;
+    outline: none;
+    border: none;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    color: #FFF;
+    margin: 0 2rem;
+}

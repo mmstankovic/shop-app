@@ -1,0 +1,11 @@
+.products {
+    width: 90%;
+    max-width: 55rem;
+    margin: 2rem auto;
+    background-color: #F3F2F0;
+    color: #86888A;
+}
+ul {
+    list-style: none;
+    padding: 0 40px;
+}

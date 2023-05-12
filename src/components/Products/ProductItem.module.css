@@ -1,0 +1,20 @@
+.product-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #0077B5;
+}
+.description {
+    font-style: italic;
+}
+.actions {
+    padding: 1rem; 
+}
+.actions button {
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    background-color: #0077B5;
+    color: #FFF;
+}

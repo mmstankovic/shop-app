@@ -1,0 +1,8 @@
+.cart {
+    max-width: 35rem;
+    color: #86888A;
+    border: 2px solid #CACCCE;
+}
+.cart h3 {
+    text-align: center;
+}

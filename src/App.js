@@ -34,7 +34,7 @@ const dummy_products = [
     }
 ]
 
-const Aplikacija = () => {
+const App = () => {
     const [availableProducts, setAvailableProducts] = useState([])
 
     const [cart, setCart] = useState([])
@@ -78,4 +78,4 @@ const Aplikacija = () => {
     )
 }
 
-export default Aplikacija
+export default App
